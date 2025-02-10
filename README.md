@@ -11,3 +11,8 @@ npm install
 npm run serve
 ```
 
+### ejecucion de la base de datos
+
+![Demostracion](image.png)
+
+
